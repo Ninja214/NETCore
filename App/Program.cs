@@ -12,6 +12,14 @@ namespace App
             Console.WriteLine("87 to win");
 
             Console.ReadLine();
+
+        }
+
+        partial class gundam
+        {
+            int numbersGame;
+
+
         }
     }
 }
