@@ -10,6 +10,8 @@ namespace App
             Console.WriteLine($"The answer is { new Thing().Get(42)}");
 
             Console.WriteLine("87 to win");
+
+            Console.ReadLine();
         }
     }
 }
